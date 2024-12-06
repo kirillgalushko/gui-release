@@ -2,6 +2,10 @@
   "name": "@gui/release",
   "version": "1.0.0",
   "main": "release.js",
+  "type": "module",
+  "bin": {
+    "@gui/release": "release.js"
+  },
   "author": "Kirill Galushko",
   "license": "MIT",
   "description": "",
