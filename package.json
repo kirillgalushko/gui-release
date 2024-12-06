@@ -1,0 +1,11 @@
+{
+  "name": "@gui/release",
+  "version": "1.0.0",
+  "main": "release.js",
+  "author": "Kirill Galushko",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
